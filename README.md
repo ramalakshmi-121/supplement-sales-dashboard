@@ -1,5 +1,7 @@
 # Supplement Sales Dashboard
 
+[![Streamlit App](https://img.shields.io/badge/Open-Dashboard-blue)](https://supplement-sales-dashboard-majcsczecb6pmbpqdvg7xt.streamlit.app/)
+
 An interactive dashboard was built using Streamlit to visualize business performance across categories, products, regions, and platforms.
 
 Source: https://www.kaggle.com/datasets/zahidmughal2343/supplement-sales-data
